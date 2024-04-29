@@ -34,7 +34,7 @@ int main()
 			break;
 		case Month::February:
 			std::cout << "Февраль\n";
-				break;
+			break;
 		case Month::March:
 			std::cout << "Март\n";
 			break;
@@ -70,5 +70,4 @@ int main()
 			break;
 		}
 	}
-	
 }
